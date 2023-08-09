@@ -1,0 +1,47 @@
+{
+    "status": 200,
+    "message": "OK",
+    "content": {
+        "id": "821472922140803112",
+        "username": "Dolphin",
+        "discriminator": "8888",
+        "nickname": "Dolphin",
+        "nickavatar": "https://cdn.discordapp.com/avatars/821472922140803112/a_5225c26456cd6d1d03b5f6af645d2488.gif?size=2048",
+        "status": {
+            "state": {
+                "text": "idle",
+                "color": "#dceb10"
+            },
+            "emote": "https://cdn.discordapp.com/emojis/682858108862726191.gif?size=2048",
+            "text": "HAHAHAHA • lol"
+        },
+        "activities": [
+            {
+                "applicationId": "782685898163617802",
+                "name": "Code",
+                "url": null,
+                "details": "Editing Luna site",
+                "state": "Work on README.md:44:625",
+                "createdTimestamp": 1643993478165,
+                "timestamps": {
+                    "start": 1643989464309,
+                    "end": null
+                },
+                "assets": {
+                    "large": {
+                        "text": "Editing a MARKDOWN file",
+                        "image": "https://cdn.discordapp.com/app-assets/782685898163617802/810647037598760991.png"
+                    },
+                    "small": {
+                        "text": "Visual Studio Code - Insiders",
+                        "image": "https://cdn.discordapp.com/app-assets/782685898163617802/810652286233083974.png"
+                    }
+                }
+            }
+        ],
+        "createdTimestamp": 1615924806867,
+        "avatar": "https://cdn.discordapp.com/avatars/821472922140803112/a_5225c26456cd6d1d03b5f6af645d2488.gif?size=2048",
+        "banner": "https://cdn.discordapp.com/banners/821472922140803112/a_bb8eb557242c1923d82d86cef14bcc4a.gif?size=600",
+        "accentColor": "#ffff"
+    }
+}
