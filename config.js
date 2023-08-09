@@ -14,7 +14,7 @@ module.exports = {
                 color: "#dceb10"
             },
             emote: "https://cdn.discordapp.com/emojis/682858108862726191.gif?size=2048",
-            text: "Dolphin#6086 • dead memes"
+            text: "Dolphin#6086 • dank memes"
         },
         activities: [],
         createdTimestamp: 1615924806867,
